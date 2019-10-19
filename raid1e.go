@@ -2,7 +2,7 @@ package piscine
 
 import "github.com/01-edu/z01"
 
-func Raid1b(x, y int) {
+func Raid1e(x, y int) {
 	if x > 0 || y > 0 {
 		for i := 0; i < y; i++ {
 			for j := 0; j < x; j++ {
